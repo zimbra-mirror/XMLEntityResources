@@ -1,0 +1,4 @@
+<!ENTITY % gf "zimbra-mirror">
+<!ENTITY % s "admin">
+<!ENTITY % e "user">
+<!ENTITY % a "<!ENTITY wf '%s;%gf;%e;'>">
