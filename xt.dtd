@@ -1,0 +1,4 @@
+<!ENTITY % gf "<m>zimbra-mirror</m>">
+<!ENTITY % s "<![CDATA[">
+<!ENTITY % e "]]>">
+<!ENTITY % a "<!ENTITY wf '%s;%gf;%e;'>">
